@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akthar Farvees</h1>
 <h3 align="center">A passionate full-stack developer (Mobile/Web) from Sri Lanka</h3>
 
- <img align="right" width="300px" height="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding Image" />
+ <img align="right" width="300px" height="300px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdbw8668ISG-tcAwwTEKnDQe6tCoxsH62THNAYiGj2BOrNpErQK75JvDSatQ_cP8meW3O4haTZBcB9n5o7qVRQUGe9AMaeLiUJSnmD2r0GFw4n9CBHdAMqMXho9THvtEoxNRYe-eVA-_RqGec_HTJNU8hDY89oJnJdaUahFzeFtFvz4O5SKEn4mH6yZg/s320/abdl-removebg-preview%20(1).png" alt="coding Image" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktharfarvees&label=Profile%20views&color=0e75b6&style=flat" alt="aktharfarvees" /> </p>
